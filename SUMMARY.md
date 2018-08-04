@@ -1,4 +1,4 @@
-# Summary
+# 大纲
 
 * [简介](README.md)
 * [作者介绍](author.md)
@@ -13,16 +13,16 @@
         * [sys_config_insert_set_user触发器](02_sys_object/sys_config_insert_set_user.md)
         * [sys_config_update_set_user触发器](02_sys_object/sys_config_update_set_user.md)
         * [sys schema 视图](03_sys_view/readme.md)
-        * [1、host_summary](03_sys_view/00_host_summary_readme.md)
-            * [host_summary,x$ host_summary](03_sys_view/1_host_summary.md)
+        * [1、host_summary相关](03_sys_view/00_host_summary_readme.md)
+            * [host_summary](03_sys_view/1_host_summary.md)
             * [host_summary_by_file_io](03_sys_view/2_file_io.md)
             * [host_summary_by_file_io_type](03_sys_view/3_file_io_type.md)
             * [host_summary_by_stages](03_sys_view/4_stages.md)
             * [host_summary_by_statement_latency](03_sys_view/5_satement_latency.md)
             * [host_summary_by_statement_type](03_sys_view/6_satement_type.md)
         * 2、Innodb Buffer相关
-            * [innodb_buffer_stats_by_schema]  (03_sys_view7_innodb_buffer_stats_by_schema.md)
-            * [innodb_buffer_stats_by_table](03_sys_view8_innodb_buffer_stats_by_table.md)
+            * [innodb_buffer_stats_by_schema]  (03_sys_view/7_innodb_buffer_stats_by_schema.md)
+            * [innodb_buffer_stats_by_table](03_sys_view/8_innodb_buffer_stats_by_table.md)
             * [innodb_lock_waits](03_sys_view/9_innodb_lock_waits.md)
         * 3、IO相关
             * [io_by_thread_by_latency](03_sys_view/10_io_by_thread_by_latency.md)
