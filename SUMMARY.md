@@ -21,7 +21,7 @@
             * [host_summary_by_statement_latency](03_sys_view/5_satement_latency.md)
             * [host_summary_by_statement_type](03_sys_view/6_satement_type.md)
         * 2、Innodb Buffer相关
-            * [innodb_buffer_stats_by_schema]  (03_sys_view/7_innodb_buffer_stats_by_schema.md)
+            * [innodb_buffer_stats_by_schema](03_sys_view/7_innodb_buffer_stats_by_schema.md)
             * [innodb_buffer_stats_by_table](03_sys_view/8_innodb_buffer_stats_by_table.md)
             * [innodb_lock_waits](03_sys_view/9_innodb_lock_waits.md)
         * 3、IO相关
